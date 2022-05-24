@@ -39,5 +39,5 @@ I can increase div size using the contnt's margins.
 
 ## Author
 
-- Website - [Add your name here](https://anuraghtam.github.io/My-SIte-CSS/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/AnuraghTam)
+- Website - Anuragh Tamang (https://anuraghtam.github.io/My-SIte-CSS/)
+- Frontend Mentor - @AnuraghTam(https://www.frontendmentor.io/profile/AnuraghTam)
