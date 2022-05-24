@@ -1,0 +1,27 @@
+body {
+  text-align:  center;
+  background-color: #ABC7E3 ;
+  /* background-color: hsl(220, 15%, 55%); */
+}
+img {
+  width: 88%;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+h3 {
+  width: 230px;
+  margin: 10px auto;
+}
+p {
+  width: 230px;
+  margin: 10px auto 20px;;
+  color: grey;
+  display: inline-block;
+}
+.qr {
+  height: auto;
+  width: 250px;
+  margin: 70px auto 100px; ;
+  background-color: white;
+  border-radius: 10px;
+}
